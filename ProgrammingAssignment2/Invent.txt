@@ -1,0 +1,6 @@
+15933 cereal 3.49 N
+32891 pillow 4.00 T
+42309 gallon-milk 1.99 N 
+44921 tea-cup 2.00 T
+60234 coffee-lbs 3.50 N
+
